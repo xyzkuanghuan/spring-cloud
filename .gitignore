@@ -1,0 +1,8 @@
+.settings
+.project
+target
+sdklog
+.classpath
+.idea
+*.iml
+/.idea
